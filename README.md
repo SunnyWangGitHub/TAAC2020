@@ -15,8 +15,7 @@
 <!-- <img src="https://github.com/SunnyWangGitHub/TAAC2020/blob/master/imgs/rank1.png" width="400" height="200"/>
 <img src="https://github.com/SunnyWangGitHub/TAAC2020/blob/master/imgs/rank2.png" width="400" height="200"/><br/> -->
 <center class = "half">
-<img src = https://github.com/SunnyWangGitHub/TAAC2020/blob/master/imgs/rank1.png  width = "49%" align = left>
-<img src = "https://github.com/SunnyWangGitHub/TAAC2020/blob/master/imgs/rank2.png"  width = "49%" align = right>
+<img src = https://github.com/SunnyWangGitHub/TAAC2020/blob/master/imgs/rank1.png  width = "49%" align = left><img src = "https://github.com/SunnyWangGitHub/TAAC2020/blob/master/imgs/rank2.png"  width = "49%" align = right>
 </center>
 
 ## 碎碎念
