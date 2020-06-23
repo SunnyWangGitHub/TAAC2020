@@ -12,9 +12,8 @@
 
 去掉内部人员之后的最终排名 -- **34**
 <div align=center>
-<img src="https://github.com/SunnyWangGitHub/TAAC2020/blob/master/imgs/rank1.png" width="400" height="200" align = "center"/>
+<img src="https://github.com/SunnyWangGitHub/TAAC2020/blob/master/imgs/rank1.png" width="600" height="200"/>
 
-<img src="https://github.com/SunnyWangGitHub/TAAC2020/blob/master/imgs/rank2.png" width="400" height="200"/><br/>
 </div>
 
 
